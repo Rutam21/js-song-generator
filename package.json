@@ -12,7 +12,7 @@
     "@vonage/server-sdk": "^2.10.7",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "localtunnel": "^2.0.1",
+    "localtunnel": "^2.0.2",
     "nedb": "^1.8.0"
   }
 }
